@@ -1,0 +1,23 @@
+.latest-match-details {
+  background-color: #0f172a;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+
+.competing-team-logo {
+  height: 120px;
+  width: 100px;
+}
+
+.location-info {
+  text-align: left;
+}
+
+.match-info {
+  text-align: right;
+}
